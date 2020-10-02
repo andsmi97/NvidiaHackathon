@@ -1,11 +1,9 @@
-import { combineReducers } from 'redux';
-import { connectRouter } from 'connected-react-router';
-import common from './reducers/common';
-import achievments from './reducers/achievments';
+import { combineReducers } from "redux";
+import { connectRouter } from "connected-react-router";
+import common from "./reducers/common";
 
 export default (history: any) =>
   combineReducers({
     common,
-    achievments,
     router: connectRouter(history),
   });

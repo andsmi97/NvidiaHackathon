@@ -1,9 +1,9 @@
-import React, { useState, FC } from 'react';
-import TextField from '@material-ui/core/TextField';
-import Button from '@material-ui/core/Button';
-import { Link } from 'react-router-dom';
-import { useStyles } from './styles';
-import { authInProgress } from '../../redux/reducers/common/actions';
+import React, { FC } from "react";
+// import TextField from '@material-ui/core/TextField';
+import Button from "@material-ui/core/Button";
+// import { Link } from 'react-router-dom';
+import { useStyles } from "./styles";
+// import { authInProgress } from '../../redux/reducers/common/actions';
 
 export interface SignInProps {
   authInProgress: any;
@@ -26,9 +26,7 @@ const SignIn: FC<SignInProps> = ({ authInProgress, onGoogleSignIn }) => {
   return (
     <div className={classes.background}>
       <form className={classes.container}>
-
-    
-   {/* <TextField
+        {/* <TextField
      id="password-inupt"
      label="Пароль"
      className={classes.textField}
