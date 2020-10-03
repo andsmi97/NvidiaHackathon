@@ -11,6 +11,7 @@ import emp from "./emp.json";
 import { Person } from "@material-ui/icons";
 import Query from "./firebase/firestoreQueries";
 import newdata from "./newdata.json";
+import { firestore } from "firebase";
 interface AppProps {
   user: {};
   isLoading: boolean;
@@ -33,6 +34,12 @@ const App: FC<AppProps> = ({
   handleCloseSnackBar,
 }) => {
   console.log(getRoles(emp));
+  const getOnePerson = stringId => {
+      return firestore().collection('persons').where('personId', '==', stringId).get()
+  }
+  const getProjectsFromId = stringId =>{
+    return firestore().collection('persons').where('PersonId', '==', stringId).get()
+  }
   const uploadData = (e: any): any => {
     newdata.persons.forEach((person) => {
       Query.Persons.create(person);
