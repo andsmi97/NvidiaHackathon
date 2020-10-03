@@ -6,6 +6,8 @@ import Loader from "./components/Loader/Component";
 // import agent from './agent';
 import Snack, { VariantIcon } from "./components/Snack/Component";
 import { auth, createUserProfileDocument } from "./firebase/utils";
+import { getSkills, getRoles } from './utils';
+import emp from './emp.json';
 interface AppProps {
   user: {};
   isLoading: boolean;
@@ -27,6 +29,7 @@ const App: FC<AppProps> = ({
   setCurrentUser,
   handleCloseSnackBar,
 }) => {
+  console.log(getRoles(emp));
   useEffect(() => {
     const unsubscribeFromAuth = auth.onAuthStateChanged(async (userAuth) => {
       if (userAuth) {

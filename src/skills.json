@@ -1,0 +1,38 @@
+{
+  "roles": [
+    { "roleId": 1, "roleName": "Sales" },
+    { "roleId": 2, "roleName": "Director" },
+    { "roleId": 3, "roleName": "Programmer" },
+    { "roleId": 4, "roleName": "IT" },
+    { "roleId": 5, "roleName": "Manager" },
+    { "roleId": 6, "roleName": "CTO" },
+    { "roleId": 7, "roleName": "HR" },
+    { "roleId": 8, "roleName": "DevRel" },
+    { "roleId": 9, "roleName": "Office management" },
+    { "roleId": 10, "roleName": "CEO" }
+  ],
+  "skills": [
+    { "skillId": 1, "skillName": "Sales tactic", "skillIcon": "ST" },
+    { "skillId": 2, "skillName": "Storytelling", "skillIcon": "S" },
+    { "skillId": 3, "skillName": "Relation building", "skillIcon": "RB" },
+    { "skillId": 4, "skillName": "Strategic Thinking", "skillIcon": "ST" },
+    { "skillId": 5, "skillName": "Communication", "skillIcon": "C" },
+    { "skillId": 6, "skillName": "Decision Making", "skillIcon": "DM" },
+    { "skillId": 7, "skillName": "Perseverance", "skillIcon": "P" },
+    { "skillId": 8, "skillName": "Self-Motivation", "skillIcon": "S" },
+    { "skillId": 9, "skillName": "Independence", "skillIcon": "I" },
+    { "skillId": 10, "skillName": "Problem solving", "skillIcon": "PS" },
+    { "skillId": 11, "skillName": "Automation", "skillIcon": "A" },
+    { "skillId": 12, "skillName": "Daily technologies", "skillIcon": "DT" },
+    { "skillId": 13, "skillName": "People Management", "skillIcon": "PM" },
+    { "skillId": 14, "skillName": "Budgeting", "skillIcon": "B" },
+    { "skillId": 15, "skillName": "Hiring", "skillIcon": "H" },
+    { "skillId": 16, "skillName": "Recruitment", "skillIcon": "R" },
+    { "skillId": 17, "skillName": "Conference", "skillIcon": "C" },
+    { "skillId": 18, "skillName": "Strategic Planning", "skillIcon": "SP" },
+    { "skillId": 19, "skillName": "Drinking", "skillIcon": "D" },
+    { "skillId": 20, "skillName": "Linux", "skillIcon": "L" },
+    { "skillId": 21, "skillName": "Events", "skillIcon": "E" },
+    { "skillId": 22, "skillName": "Office supplies", "skillIcon": "OS" }
+  ]
+}

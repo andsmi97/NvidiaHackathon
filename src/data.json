@@ -1,0 +1,107 @@
+{
+  "persons": [
+    {
+      "personId": 1,
+      "personName": "Piper Dingledine",
+      "personEmail": "Piper.Dingledine@fakegame.com",
+      "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 2,
+          "roleName": "Manager",
+          "projectId": 2,
+          "projectName": "Fake mobile dragon game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 1,
+          "skillName": "Sales tactic",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 2,
+          "skillName": "Storytelling",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 3,
+          "skillName": "Relation building",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "projectId": 1,
+      "projectName": "Fake mobile game",
+      "projectDescription": "Long text",
+      "projectImage": "https://cdn.lynda.com/course/424947/424947-637260802118087572-16x9.jpg",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "roleId": 1,
+      "roleName": "Sales"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": 1,
+      "skillName": "Sales tactic",
+      "skillIcon": "url_to_image"
+    },
+    {
+      "skillId": 2,
+      "skillName": "Storytelling",
+      "skillIcon": "url_to_image"
+    },
+    {
+      "skillId": 3,
+      "skillName": "Relation building",
+      "skillIcon": "url_to_image"
+    }
+  ]
+}
