@@ -5,17 +5,12 @@ import { Provider } from "react-redux";
 import { store } from "./redux/store";
 import DateFnsUtils from "@date-io/date-fns"; // choose your lib
 import { MuiPickersUtilsProvider } from "@material-ui/pickers";
-import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
+import { MuiThemeProvider, } from "@material-ui/core/styles";
 import { BrowserRouter } from "react-router-dom";
+import { theme } from './styles'
 import "./i18n";
 import AppContainer from "./AppContainer";
-const theme = createMuiTheme({
-  palette: {
-    primary: { main: "#73B900", light: "#EEF7E0", dark: "#269000" },
-    secondary: { main: "#3509BA", light: "#0039C7", dark: "#230B6E" },
-    type: "dark",
-  },
-});
+
 
 ReactDOM.render(
   <Provider store={store}>

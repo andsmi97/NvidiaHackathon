@@ -5,8 +5,9 @@ import { ConnectedRouter } from "connected-react-router";
 import { history, AppStateType } from "./redux/store";
 import NotFound from "./pages/NotFound/Container";
 import Welcome from "./pages/Welcome/Container";
-import SignIn from "./pages/SignIn/Container";
+// import SignIn from "./pages/SignIn/Container";
 import { currentUser } from "./firebase/firestoreQueries";
+import PersonPageContainer from "./pages/PersonPage/Container";
 const mapStateToProps = (state: AppStateType) => ({
   currentUser: state.common.currentUser,
 });
@@ -25,7 +26,8 @@ const Router = () => {
   return (
     <ConnectedRouter history={history}>
       <Switch>
-        <Route exact path="/" render={() => <SignIn />} />
+        {/* <Route exact path="/" render={() => <SignIn />} /> */}
+        <Route exact path="/" render={() => <PersonPageContainer />} />
         <Route component={NotFound} />
       </Switch>
     </ConnectedRouter>

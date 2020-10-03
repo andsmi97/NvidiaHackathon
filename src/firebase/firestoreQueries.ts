@@ -35,6 +35,44 @@ const Persons = {
       };
     });
   },
+  getSimilarPersons: async (personId: number): Promise<any> => {
+    const person: any = await (
+      await persons.where("personId", "==", personId).get()
+    ).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+    const personSkills = person.personSkills;
+    let similarPersons: any = [];
+    for await (let skill of personSkills) {
+      const similarPersonsForSkill = await (
+        await persons.where("personSkills", "array-contains", skill).get()
+      ).docs.map((doc) => {
+        const data: any = doc.data();
+        return data;
+      }, {});
+      similarPersons = [...similarPersons, ...similarPersonsForSkill];
+    }
+
+    const filteredDuplicates = similarPersons.reduce(
+      (acc: any, similarPersons: any) => {
+        const x = acc.find(
+          (item: any) => item.personId === similarPersons.personId
+        );
+        if (!x) {
+          return acc.concat([similarPersons]);
+        } else {
+          return acc;
+        }
+      },
+      []
+    );
+
+    return filteredDuplicates.filter(
+      (person: any) => person.personId !== personId
+    );
+  },
 };
 
 const Projects = {
