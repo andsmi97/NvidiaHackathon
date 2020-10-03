@@ -1,0 +1,1235 @@
+{
+  "persons": [
+    {
+      "personId": 1,
+      "personName": "Piper Dingledine",
+      "personEmail": "Piper.Dingledine@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/xOjzehJ49Hk",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        },
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 2,
+          "roleName": "Director",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 1,
+          "skillName": "Sales tactic",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/young-woman-happy-use-mini-trooley-gm951927754-259865435"
+        },
+        {
+          "skillId": 2,
+          "skillName": "Storytelling",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/young-businessman-discussing-with-colleagues-at-office-gm824580648-133558785"
+        },
+        {
+          "skillId": 3,
+          "skillName": "Relation building",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/partnership-of-business-concept-gm1129515532-298401190"
+        }
+      ]
+    },
+
+    {
+      "personId": 2,
+      "personName": "Dennis Cardenas",
+      "personEmail": "Dennis.Cardenas@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/kMJp7620W6U",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 2,
+          "roleName": "Director",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/business-concept-sketch-gm876573208-244652264"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/businessman-presenting-new-project-to-partners-in-the-office-gm913481088-251453468"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        }
+      ]
+    },
+    {
+      "personId": 3,
+      "personName": "William Mooney",
+      "personEmail": "William.Mooney@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/6G2G6_rq-B0",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 3,
+          "roleName": "Programmer",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 2,
+          "roleName": "Director",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 7,
+          "skillName": "Perseverance",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/business-development-to-success-and-growing-annual-revenue-growth-concept-businessman-gm905948482-249790306"
+        },
+        {
+          "skillId": 8,
+          "skillName": "Self-Motivation",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/multiracial-group-of-colleagues-engaging-in-assembling-puzzle-top-view-gm958531452-261735452"
+        },
+        {
+          "skillId": 9,
+          "skillName": "Independence",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/business-and-growth-concept-gm875531534-244418645"
+        }
+      ]
+    },
+    {
+      "personId": 4,
+      "personName": "Ashley Rifkin",
+      "personEmail": "Ashley.Rifkin@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/5kCxJs_W4Fs",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 3,
+          "roleName": "Programmer",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 1,
+          "skillName": "Sales tactic",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/young-woman-happy-use-mini-trooley-gm951927754-259865435"
+        },
+        {
+          "skillId": 2,
+          "skillName": "Storytelling",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/young-businessman-discussing-with-colleagues-at-office-gm824580648-133558785"
+        },
+        {
+          "skillId": 3,
+          "skillName": "Relation building",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/partnership-of-business-concept-gm1129515532-298401190"
+        }
+      ]
+    },
+    {
+      "personId": 5,
+      "personName": "Lisa Yruegas",
+      "personEmail": "Lisa.Yruegas@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/O3ymvT7Wf9U",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        },
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 2,
+          "roleName": "Director",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 3,
+          "roleName": "Manager",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/business-concept-sketch-gm876573208-244652264"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/businessman-presenting-new-project-to-partners-in-the-office-gm913481088-251453468"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        }
+      ]
+    },
+    {
+      "personId": 6,
+      "personName": "Ellen Smith",
+      "personEmail": "Ellen.Smith@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/zawAr1FKOMw",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 3,
+          "roleName": "Programmer",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 4,
+          "roleName": "IT",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 4,
+          "roleName": "IT",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 10,
+          "skillName": "Problem solving",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 11,
+          "skillName": "Automation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 12,
+          "skillName": "Daily technologies",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 7,
+      "personName": "Dotty Deason",
+      "personEmail": "Dotty.Deason@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/X1fKWQM-GXY",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 4,
+          "roleName": "IT",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 5,
+          "roleName": "Manager",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 5,
+          "roleName": "Manager",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 13,
+          "skillName": "People Management",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 14,
+          "skillName": "Budgeting",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 15,
+          "skillName": "Hiring",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 8,
+      "personName": "Nickolas McCarney",
+      "personEmail": "Nickolas.McCarney@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/_BkjDspEw_k",
+      "reportsTo": [15],
+      "projects": [
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 6,
+          "roleName": "CTO",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 9,
+      "personName": "Dennis Gist",
+      "personEmail": "Dennis.Gist@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/3SyAbr5MXMA",
+      "reportsTo": [15],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        },
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        },
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 4,
+          "roleName": "IT",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 5,
+          "roleName": "Manager",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 7,
+          "roleName": "HR",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 6,
+          "roleName": "CTO",
+          "projectId": 4,
+          "projectName": "New fps game"
+        },
+        {
+          "roleId": 5,
+          "roleName": "Manager",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 10,
+          "skillName": "Problem solving",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 11,
+          "skillName": "Automation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 12,
+          "skillName": "Daily technologies",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 10,
+      "personName": ",Juanita Delabarre",
+      "personEmail": "Juanita.Delabarre@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/moDxmttUP00",
+      "reportsTo": [15],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        },
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 5,
+          "roleName": "Manager",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        },
+        {
+          "roleId": 6,
+          "roleName": "CTO",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 8,
+          "roleName": "DevRel",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 10,
+          "skillName": "Problem solving",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 11,
+          "skillName": "Automation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 12,
+          "skillName": "Daily technologies",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 11,
+      "personName": "Nancy Villanueva",
+      "personEmail": "Nancy.Villanueva@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/SpIKPT8zeAs",
+      "reportsTo": [15],
+      "projects": [
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 3,
+          "name": "Karma mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        },
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 7,
+          "roleName": "HR",
+          "projectId": 1,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 9,
+          "roleName": "Office management",
+          "projectId": 3,
+          "projectName": "Karma mobile game"
+        },
+        {
+          "roleId": 7,
+          "roleName": "HR",
+          "projectId": 4,
+          "projectName": "New fps game"
+        },
+        {
+          "roleId": 6,
+          "roleName": "CTO",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 7,
+          "skillName": "Perseverance",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 8,
+          "skillName": "Self-Motivation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 9,
+          "skillName": "Independence",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 12,
+      "personName": "Samuel Iaccarino",
+      "personEmail": "Samuel.Iaccarino@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/SJkN9_RfhUM",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        },
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 8,
+          "roleName": "DevRel",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 7,
+          "roleName": "HR",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        },
+        {
+          "roleId": 8,
+          "roleName": "DevRel",
+          "projectId": 4,
+          "projectName": "New fps game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 7,
+          "skillName": "Perseverance",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 8,
+          "skillName": "Self-Motivation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 9,
+          "skillName": "Independence",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 13,
+      "personName": "Julie Lams",
+      "personEmail": "Julie.Lams@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/BrEAp01_m5w",
+      "reportsTo": [19],
+      "projects": [
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 6,
+          "roleName": "CTO",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 14,
+      "personName": "Bernice Schuck",
+      "personEmail": "Bernice.Schuck@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/D8Uip0fDFbg",
+      "reportsTo": [19],
+      "projects": [
+        {
+          "projectId": 4,
+          "name": "New fps game"
+        },
+        {
+          "projectId": 2,
+          "name": "Prototype mobile game"
+        },
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 9,
+          "roleName": "Office management",
+          "projectId": 4,
+          "projectName": "New fps game"
+        },
+        {
+          "roleId": 9,
+          "roleName": "Office management",
+          "projectId": 2,
+          "projectName": "Prototype mobile game"
+        },
+        {
+          "roleId": 7,
+          "roleName": "HR",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 15,
+      "personName": "Tanner Harrington",
+      "personEmail": "Tanner.Harrington@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/65JdPsTtL-0",
+      "reportsTo": [19],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        },
+        {
+          "projectId": 1,
+          "name": "Fake mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 8,
+          "roleName": "DevRel",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        },
+        {
+          "roleId": 8,
+          "roleName": "DevRel",
+          "projectId": 1,
+          "projectName": "Fake mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 13,
+          "skillName": "People Management",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 14,
+          "skillName": "Budgeting",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 15,
+          "skillName": "Hiring",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 16,
+      "personName": "Norman Ruiz",
+      "personEmail": "Norman.Ruiz@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/0A5Lyckmm8s",
+      "reportsTo": [19],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 9,
+          "roleName": "Office management",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 7,
+          "skillName": "Perseverance",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 8,
+          "skillName": "Self-Motivation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 9,
+          "skillName": "Independence",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 17,
+      "personName": "Phyllis Harris",
+      "personEmail": "Phyllis.Harris@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/xWVyLLUztv0",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 1,
+          "roleName": "Sales",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 4,
+          "skillName": "Strategic Thinking",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 5,
+          "skillName": "Communication",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 6,
+          "skillName": "Decision Making",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 18,
+      "personName": "Kyle Nava",
+      "personEmail": "Kyle.Nava@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/XDYlOQUrfD8",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 2,
+          "roleName": "Director",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 7,
+          "skillName": "Perseverance",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 8,
+          "skillName": "Self-Motivation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 9,
+          "skillName": "Independence",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 19,
+      "personName": "Jimmie Shah",
+      "personEmail": "Jimmie.Shah@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/sXng8tk15Lg",
+      "reportsTo": [7],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 3,
+          "roleName": "Programmer",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 10,
+          "skillName": "Problem solving",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 11,
+          "skillName": "Automation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 12,
+          "skillName": "Daily technologies",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    },
+    {
+      "personId": 20,
+      "personName": "Jeffrey Gutierrez",
+      "personEmail": "Jeffrey.Gutierrez@fakegame.com",
+      "personAvatar": "https://unsplash.com/photos/qa4xrw-44Q4",
+      "reportsTo": [14],
+      "projects": [
+        {
+          "projectId": 5,
+          "name": "Mafia mobile game"
+        }
+      ],
+      "personRole": [
+        {
+          "roleId": 4,
+          "roleName": "IT",
+          "projectId": 5,
+          "projectName": "Mafia mobile game"
+        }
+      ],
+      "personSkills": [
+        {
+          "skillId": 10,
+          "skillName": "Problem solving",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 11,
+          "skillName": "Automation",
+          "skillIcon": "url_to_image"
+        },
+        {
+          "skillId": 12,
+          "skillName": "Daily technologies",
+          "skillIcon": "url_to_image"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "projectId": 1,
+      "projectName": "Fake mobile game",
+      "projectDescription": "The Gateways to Algebraic Motivation, Engagement and Success (GAMES):
+      Supporting and Assessing Fraction Proficiency with Game-Based, Mobile Applications and
+      Devices project is a full research and development project addressing NSF DR K-12 challenge 5.
+      For this 3-year project we target the learning of pre-algebraic fraction concepts by middle
+      school students by examining links between motivation, engagement, and fraction proficiency.",
+      "projectImage": "https://unsplash.com/photos/mf_3yZnC6ug",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    },
+
+    {
+      "projectId": 2,
+      "projectName": "Prototype mobile game",
+      "projectDescription": "Your team will solve the project challenge by applying a user-centered design
+      process that follows an iterative Learn-Build-Measure cycle. In this project, the players of the game
+      are your users. A key source of information during the game design process will come from playtesting
+      — having users play the game in order to get feedback on specific aspects of the game. Playtesting of
+      a game is similar to user testing of an app.",
+      "projectImage": "https://unsplash.com/photos/aE0iX-bLCJc",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    },
+
+    {
+      "projectId": 3,
+      "projectName": "Karma mobile game",
+      "projectDescription": "Students will plan and build their own game using the project guide
+      from the previous two lessons to guide their project. Working individually or in pairs,
+      students will first decide on the type of game they'd like to build, taking as inspiration
+      a set of sample games.",
+      "projectImage": "https://unsplash.com/photos/5QgIuuBxKwM",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    },
+
+    {
+      "projectId": 4,
+      "projectName": "New fps game",
+      "projectDescription": "If you love games and want to learn how to make them, then this course
+      will start you down that path. Making games is a creative and technical art form. In this
+      course you will familiarize yourself with the tools and practices of game development. You
+      will get started developing your own videogames using the industry standard game development
+      tools, including the Unity3D game engine and C#.",
+      "projectImage": "https://unsplash.com/photos/Ycr_j16mbtk",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    },
+
+    {
+      "projectId": 5,
+      "projectName": "Mafia mobile game",
+      "projectDescription": "The goal of your project proposal is to describe the game you plan
+      to create in enough detail to show how it will be played, how the game will be fun, how it
+      will be novel, and what tools you will use to create it. It is particularly important that
+      your game's novel aspect is clearly explained.",
+      "projectImage": "https://unsplash.com/photos/f5Ue0h_QQNI",
+      "persons": [
+        {
+          "personId": 1,
+          "personName": "Piper Dingledine",
+          "personEmail": "Piper.Dingledine@fakegame.com",
+          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "reportsTo": [7]
+        }
+      ],
+      "gantt": {
+        "ganttName": "Project Timeline",
+        "ganttRows": [
+          {
+            "rowTitle": "Design",
+            "rowSteps": ["2012-04-23T18:25:43.511Z", "2012-05-23T18:25:43.511Z"]
+          },
+          {
+            "rowTitle": "Programming",
+            "rowSteps": ["2012-05-23T18:25:43.511Z", "2012-06-23T18:25:43.511Z"]
+          }
+        ]
+      },
+      "dependencies": [
+        {
+          "projectId": 2,
+          "projectName": "C++ Numerical Algebra"
+        }
+      ]
+    }
+  ],
+  "roles": [
+    { "roleId": 1, "roleName": "Sales" },
+    { "roleId": 2, "roleName": "Director" },
+    { "roleId": 3, "roleName": "Programmer" },
+    { "roleId": 4, "roleName": "IT" },
+    { "roleId": 5, "roleName": "Manager" },
+    { "roleId": 6, "roleName": "CTO" },
+    { "roleId": 7, "roleName": "HR" },
+    { "roleId": 8, "roleName": "DevRel" },
+    { "roleId": 9, "roleName": "Office management" },
+    { "roleId": 10, "roleName": "CEO" }
+  ],
+  "skills": [
+    { "skillId": 1, "skillName": "Sales tactic", "skillIcon": "ST" },
+    { "skillId": 2, "skillName": "Storytelling", "skillIcon": "S" },
+    { "skillId": 3, "skillName": "Relation building", "skillIcon": "RB" },
+    { "skillId": 4, "skillName": "Strategic Thinking", "skillIcon": "ST" },
+    { "skillId": 5, "skillName": "Communication", "skillIcon": "C" },
+    { "skillId": 6, "skillName": "Decision Making", "skillIcon": "DM" },
+    { "skillId": 7, "skillName": "Perseverance", "skillIcon": "P" },
+    { "skillId": 8, "skillName": "Self-Motivation", "skillIcon": "S" },
+    { "skillId": 9, "skillName": "Independence", "skillIcon": "I" },
+    { "skillId": 10, "skillName": "Problem solving", "skillIcon": "PS" },
+    { "skillId": 11, "skillName": "Automation", "skillIcon": "A" },
+    { "skillId": 12, "skillName": "Daily technologies", "skillIcon": "DT" },
+    { "skillId": 13, "skillName": "People Management", "skillIcon": "PM" },
+    { "skillId": 14, "skillName": "Budgeting", "skillIcon": "B" },
+    { "skillId": 15, "skillName": "Hiring", "skillIcon": "H" },
+    { "skillId": 16, "skillName": "Recruitment", "skillIcon": "R" },
+    { "skillId": 17, "skillName": "Conference", "skillIcon": "C" },
+    { "skillId": 18, "skillName": "Strategic Planning", "skillIcon": "SP" },
+    { "skillId": 19, "skillName": "Drinking", "skillIcon": "D" },
+    { "skillId": 20, "skillName": "Linux", "skillIcon": "L" },
+    { "skillId": 21, "skillName": "Events", "skillIcon": "E" },
+    { "skillId": 22, "skillName": "Office supplies", "skillIcon": "OS" }
+  ]
+}
