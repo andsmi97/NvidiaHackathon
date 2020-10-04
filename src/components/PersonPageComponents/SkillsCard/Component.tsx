@@ -1,20 +1,20 @@
 import React, { FC } from 'react';
 import Paper from "@material-ui/core/Paper"
-// import { useStyles } from './styles'
+import { useStyles } from './styles'
 import { ISkill } from '../../../types'
-import { Chip } from '@material-ui/core';
+import { Chip, Typography } from '@material-ui/core';
 
 export interface ISkillCard {
   personSkills: ISkill[];
 }
 
 const SkillCard: FC<ISkillCard> = ({ personSkills }) => {
-  // const classes = useStyles();
-  console.log('i am rendred')
+  const classes = useStyles();
   return (
-    <Paper>
+    <Paper className={classes.paperRoot} >
+      <Typography variant="h5" className={classes.title}>Skills</Typography>
       {personSkills.map(skill => (
-        <Chip label={skill.skillName} variant="outlined" />
+        <Chip clickable label={skill.skillName} className={classes.chip} variant="outlined" />
       ))}
     </Paper>
   );

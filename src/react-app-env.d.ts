@@ -9,5 +9,6 @@ declare module "react-reveal/Zoom";
 declare module "react-reveal/LightSpeed";
 declare module "react-tilt";
 declare module "react-particles-js";
+declare module "react-gantt";
 declare module "*.woff";
 declare module "*.woff2";

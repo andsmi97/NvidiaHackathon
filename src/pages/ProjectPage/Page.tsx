@@ -10,6 +10,8 @@ import ProjectCard from "../../components/PersonPageComponents/ProjectCard/Compo
 import ColleguesCard from "../../components/PersonPageComponents/ColleguesCard/Component";
 import SimilarColleguesCard from '../../components/PersonPageComponents/SimilarCollegues/Component'
 import Disqus from "../../components/Disqus/Component";
+import PieCard from "../../components/ProjectPageComponents/PieChartCard/Component";
+import GanttCard from "../../components/ProjectPageComponents/GanttChart/Component";
 export interface IPersonPageProps {
   authInProgress?: any;
   onGoogleSignIn?: any;
@@ -93,31 +95,37 @@ const PersonPage: FC<IPersonPageProps> = () => {
       }]
   }]
   return (<>
-    <TopBar pageName={"Personal Page"} />
+    <TopBar pageName={"Project Page"} />
     <Container>
       <Grid container spacing={2}>
 
-        <Grid item spacing={2} sm={3} xs={12}>
+        <Grid item spacing={2} sm={9} xs={12}>
           <div className={classes.bottomSpacing}></div>
           <PersonCard {...person} />
           <div className={classes.bottomSpacing}></div>
-          <SkillCard personSkills={person.personSkills} />
-        </Grid>
-
-        <Grid item spacing={2} sm={6}>
-          <div className={classes.bottomSpacing}></div>
-          <ProjectCard projects={person.projects} />
-          <div className={classes.bottomSpacing}></div>
-          <Disqus />
         </Grid>
 
         <Grid item spacing={2} sm={3}>
           <div className={classes.bottomSpacing}></div>
-          <ColleguesCard collegues={collegues} />
+          <PieCard />
           <div className={classes.bottomSpacing}></div>
-          <SimilarColleguesCard collegues={collegues} />
+          <SkillCard personSkills={person.personSkills} />
         </Grid>
 
+        <Grid item spacing={2} sm={3} xs={12}>
+          <div className={classes.bottomSpacing}></div>
+          <ColleguesCard collegues={collegues} />
+        </Grid>
+
+        <Grid item spacing={2} sm={9} xs={12}>
+          <div className={classes.bottomSpacing}></div>
+          <GanttCard />
+        </Grid>
+
+
+        <Grid item spacing={2} sm={12} xs={12}>
+          <Disqus />
+        </Grid>
 
       </Grid>
     </Container>
