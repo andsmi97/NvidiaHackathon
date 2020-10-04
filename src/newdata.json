@@ -673,7 +673,7 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
-        }
+        },
         {
           "skillId": 24,
           "skillName": "IOS",
@@ -1383,8 +1383,8 @@
       "dependencies": [
         {
           "dependenciesId": 1,
-          "dependenciesName": "Android" 
-        }, 
+          "dependenciesName": "Android"
+        },
         {
           "dependenciesId": 2,
           "dependenciesName": "IOS"
@@ -1483,8 +1483,8 @@
       "dependencies": [
         {
           "dependenciesId": 1,
-          "dependenciesName": "Android" 
-        }, 
+          "dependenciesName": "Android"
+        },
         {
           "dependenciesId": 2,
           "dependenciesName": "IOS"
@@ -1583,8 +1583,8 @@
       "dependencies": [
         {
           "dependenciesId": 6,
-          "dependenciesName": "Java" 
-        }, 
+          "dependenciesName": "Java"
+        },
         {
           "dependenciesId": 5,
           "dependenciesName": "Javascript"
@@ -1690,8 +1690,8 @@
       "dependencies": [
         {
           "dependenciesId": 3,
-          "dependenciesName": "C++" 
-        }, 
+          "dependenciesName": "C++"
+        },
         {
           "dependenciesId": 11,
           "dependenciesName": "C#"
@@ -1797,8 +1797,8 @@
       "dependencies": [
         {
           "dependenciesId": 1,
-          "dependenciesName": "Android" 
-        }, 
+          "dependenciesName": "Android"
+        },
         {
           "dependenciesId": 10,
           "dependenciesName": "git"

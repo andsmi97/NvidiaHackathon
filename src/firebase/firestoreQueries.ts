@@ -159,18 +159,19 @@ const Persons = {
     );
   },
 
-  findBySearch: async(stringQuery: string):Promise<any> =>{
-    const projects: any = await (await projects.dependencies.where("dependenciesName", "==", stringQuery).get()).docs.reduce((acc, doc) => {
-      const data: any = doc.data();
-      acc = data;
-      return acc;
-    }, {});
-    const persons: any = await (await persons.skills("skill"))
-  }
+  findBySearch: async (stringQuery: string): Promise<any> => {
+    // const projectsWithDependency: any = await (
+    //   await projects.dependencies
+    //     .where("dependenciesName", "==", stringQuery)
+    //     .get()
+    // ).docs.reduce((acc, doc) => {
+    //   const data: any = doc.data();
+    //   acc = data;
+    //   return acc;
+    // }, {});
+    // const personsWithSkills: any = await await persons.skills("skill");
+  },
 };
-
-
-
 
 const Projects = {
   create: async (project: any) => {

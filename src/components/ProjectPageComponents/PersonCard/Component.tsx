@@ -26,12 +26,12 @@ const PersonCard: FC<IPersonCard> = ({ personName, personRole, personAvatar, per
           title={`${personName} avatar`}
         />
         <CardContent>
-          <Typography gutterBottom variant="h5" component="h2">
+          <Typography gutterBottom variant="h5" component="h2" className={classes.title}>
             {personName}
           </Typography>
           <div className={classes.lowerPart}>
             <Typography variant="body2" color="textSecondary" component="p">
-              {/* {personRole[0].roleName} */}
+              {personRole[0].roleName}
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
               {personEmail}

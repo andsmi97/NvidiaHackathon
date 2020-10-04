@@ -5,7 +5,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import { useStyles } from './styles'
-import { IRole } from '../../../types'
+import { IRole } from '../../types'
 
 export interface IPersonCard {
   personName: string;
@@ -14,9 +14,8 @@ export interface IPersonCard {
   personEmail: string;
 }
 
-const PersonCard: FC<IPersonCard> = ({ personName, personRole, personAvatar, personEmail }) => {
+const PeoplesCard: FC<any> = ({ personAvatar, personName, personRole, personEmail }) => {
   const classes = useStyles();
-
   return (
     <Card className={classes.root}>
       <CardActionArea>
@@ -31,7 +30,7 @@ const PersonCard: FC<IPersonCard> = ({ personName, personRole, personAvatar, per
           </Typography>
           <div className={classes.lowerPart}>
             <Typography variant="body2" color="textSecondary" component="p">
-              {/* {personRole[0].roleName} */}
+              {personRole[0].roleName}
             </Typography>
             <Typography variant="body2" color="textSecondary" component="p">
               {personEmail}
@@ -42,4 +41,4 @@ const PersonCard: FC<IPersonCard> = ({ personName, personRole, personAvatar, per
     </Card>
   );
 }
-export default PersonCard 
+export default PeoplesCard 
