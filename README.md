@@ -27,3 +27,9 @@ Project Page - https://nvidiahackathon.web.app/project
 Designs can be found here:
 
 https://xd.adobe.com/view/382b1d6e-d72e-437d-5526-43c973777e9d-4e1a/
+
+## _5. Presentation _
+
+For better animated experience it's better to download ppt format and view in powerpoint
+
+https://docs.google.com/presentation/d/1fS6i1FqiIgsUnNBNY4i_TCsSInyJTvjg/edit#slide=id.g9cd8086d89_3_12
