@@ -48,4 +48,5 @@ export interface IPerson {
     projectName: string;
   };
   roles: IRole[];
+  personSkills: ISkill[];
 }

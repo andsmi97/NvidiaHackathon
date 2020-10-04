@@ -55,6 +55,21 @@
           "skillId": 3,
           "skillName": "Relation building",
           "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -114,6 +129,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 23,
+          "skillName": "Android",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 28,
+          "skillName": "Java",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 31,
+          "skillName": "Julia",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -162,6 +192,21 @@
           "skillId": 9,
           "skillName": "Independence",
           "skillIcon": "https://images.squarespace-cdn.com/content/v1/585c0d3fc534a5bfb0d9c693/1483037627458-BIL87VG8RZ38XTWX0TV6/ke17ZwdGBToddI8pDm48kDrQ9tfdcvPUv7NgXGP4R2R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4zwrosjp5YtnrvbmlM1LFKb7wNXE8lRZ0Z8l5PIsW3Vw/image-asset.jpeg"
+        },
+        {
+          "skillId": 32,
+          "skillName": "git",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 34,
+          "skillName": "Unity",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 26,
+          "skillName": "DS",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -199,6 +244,21 @@
         {
           "skillId": 3,
           "skillName": "Relation building",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
+        },
+        {
+          "skillId": 23,
+          "skillName": "Android",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 25,
+          "skillName": "C++",
           "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
@@ -248,6 +308,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 28,
+          "skillName": "Java",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 31,
+          "skillName": "Julia",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 34,
+          "skillName": "Unity",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -306,6 +381,21 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
+        },
+        {
+          "skillId": 26,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 28,
+          "skillName": "Java",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -364,6 +454,21 @@
           "skillId": 15,
           "skillName": "Hiring",
           "skillIcon": "https://iid.iowa.gov/sites/default/files/istock-865781254_1.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 30,
+          "skillName": "Docker",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 31,
+          "skillName": "Julia",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -402,6 +507,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 31,
+          "skillName": "Julia",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 32,
+          "skillName": "git",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 33,
+          "skillName": "C#",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -480,6 +600,21 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
+        },
+        {
+          "skillId": 32,
+          "skillName": "git",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 33,
+          "skillName": "C#",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 34,
+          "skillName": "Unity",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -538,6 +673,21 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
+        }
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -606,6 +756,21 @@
           "skillId": 9,
           "skillName": "Independence",
           "skillIcon": "https://images.squarespace-cdn.com/content/v1/585c0d3fc534a5bfb0d9c693/1483037627458-BIL87VG8RZ38XTWX0TV6/ke17ZwdGBToddI8pDm48kDrQ9tfdcvPUv7NgXGP4R2R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4zwrosjp5YtnrvbmlM1LFKb7wNXE8lRZ0Z8l5PIsW3Vw/image-asset.jpeg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -664,6 +829,21 @@
           "skillId": 9,
           "skillName": "Independence",
           "skillIcon": "https://images.squarespace-cdn.com/content/v1/585c0d3fc534a5bfb0d9c693/1483037627458-BIL87VG8RZ38XTWX0TV6/ke17ZwdGBToddI8pDm48kDrQ9tfdcvPUv7NgXGP4R2R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4zwrosjp5YtnrvbmlM1LFKb7wNXE8lRZ0Z8l5PIsW3Vw/image-asset.jpeg"
+        },
+        {
+          "skillId": 23,
+          "skillName": "Android",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 25,
+          "skillName": "C++",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -702,6 +882,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 26,
+          "skillName": "DS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 28,
+          "skillName": "Java",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -760,6 +955,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -808,6 +1018,21 @@
           "skillId": 15,
           "skillName": "Hiring",
           "skillIcon": "https://iid.iowa.gov/sites/default/files/istock-865781254_1.jpg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 28,
+          "skillName": "Java",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 32,
+          "skillName": "C№",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -846,6 +1071,21 @@
           "skillId": 9,
           "skillName": "Independence",
           "skillIcon": "https://images.squarespace-cdn.com/content/v1/585c0d3fc534a5bfb0d9c693/1483037627458-BIL87VG8RZ38XTWX0TV6/ke17ZwdGBToddI8pDm48kDrQ9tfdcvPUv7NgXGP4R2R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4zwrosjp5YtnrvbmlM1LFKb7wNXE8lRZ0Z8l5PIsW3Vw/image-asset.jpeg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 29,
+          "skillName": "Python",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -884,6 +1124,21 @@
           "skillId": 6,
           "skillName": "Decision Making",
           "skillIcon": "https://www.istockphoto.com/ru/%D1%84%D0%BE%D1%82%D0%BE/reflection-businessman-using-tablet-analyzing-data-and-economic-growth-graph-chart-gm1148648397-310267187"
+        },
+        {
+          "skillId": 32,
+          "skillName": "git",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 33,
+          "skillName": "C#",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -922,6 +1177,21 @@
           "skillId": 9,
           "skillName": "Independence",
           "skillIcon": "https://images.squarespace-cdn.com/content/v1/585c0d3fc534a5bfb0d9c693/1483037627458-BIL87VG8RZ38XTWX0TV6/ke17ZwdGBToddI8pDm48kDrQ9tfdcvPUv7NgXGP4R2R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0gmXcXvEVFTLbYX9CdVcGe4zwrosjp5YtnrvbmlM1LFKb7wNXE8lRZ0Z8l5PIsW3Vw/image-asset.jpeg"
+        },
+        {
+          "skillId": 32,
+          "skillName": "git",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 33,
+          "skillName": "C#",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -960,6 +1230,21 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
+        },
+        {
+          "skillId": 23,
+          "skillName": "Android",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 27,
+          "skillName": "Javascript",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     },
@@ -998,6 +1283,21 @@
           "skillId": 12,
           "skillName": "Daily technologies",
           "skillIcon": "https://cdn3.vectorstock.com/i/1000x1000/27/67/buyer-purchasing-products-isometric-vector-26072767.jpg"
+        },
+        {
+          "skillId": 26,
+          "skillName": "DS",
+          "skillIcon": "https://lh3.googleusercontent.com/proxy/NkEot3saPFf-AaYHXxV_6Agsbrq7ZNyIzhHibfYijS9Kn7M13VbwDhkPmYX_OVkz3B_YRst1j0pkEV6BXYz_u3P3yw"
+        },
+        {
+          "skillId": 33,
+          "skillName": "C#",
+          "skillIcon": "https://www.barcelona.cat/internationalwelcome/sites/default/files/imatge_business_storytelling_def.jpg"
+        },
+        {
+          "skillId": 24,
+          "skillName": "IOS",
+          "skillIcon": "https://media.istockphoto.com/photos/partnership-of-business-concept-picture-id1129515532"
         }
       ]
     }
@@ -1006,7 +1306,7 @@
     {
       "projectId": 1,
       "projectName": "Fake mobile game",
-     
+
       "projectShortDescription": "Supporting and Assessing Fraction Proficiency with Game-Based, Mobile Applications and Devices project",
       "projectImage": "https://unsplash.com/photos/mf_3yZnC6ug",
       "persons": [
@@ -1016,6 +1316,55 @@
           "personEmail": "Piper.Dingledine@fakegame.com",
           "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
           "reportsTo": [7]
+        },
+        {
+          "personId": 5,
+          "personName": "Lisa Yruegas",
+          "personEmail": "Lisa.Yruegas@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 6,
+          "personName": "Ellen Smith",
+          "personEmail": "Ellen.Smith@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 9,
+          "personName": "Dennis Gist",
+          "personEmail": "Dennis.Gist@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 10,
+          "personName": ",Juanita Delabarre",
+          "personEmail": "Juanita.Delabarre@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 13,
+          "personName": "Julie Lams",
+          "personEmail": "Julie.Lams@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [19]
+        },
+        {
+          "personId": 14,
+          "personName": "Bernice Schuck",
+          "personEmail": "Bernice.Schuck@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [19]
+        },
+        {
+          "personId": 15,
+          "personName": "Tanner Harrington",
+          "personEmail": "Tanner.Harrington@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1579463148228-138296ac3b98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=654&q=80",
+          "reportsTo": [19]
         }
       ],
       "gantt": {
@@ -1033,8 +1382,16 @@
       },
       "dependencies": [
         {
-          "projectId": 2,
-          "projectName": "C++ Numerical Algebra"
+          "dependenciesId": 1,
+          "dependenciesName": "Android" 
+        }, 
+        {
+          "dependenciesId": 2,
+          "dependenciesName": "IOS"
+        },
+        {
+          "dependenciesId": 8,
+          "dependenciesName": "Docker"
         }
       ]
     },
@@ -1052,6 +1409,62 @@
           "personEmail": "Piper.Dingledine@fakegame.com",
           "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
           "reportsTo": [7]
+        },
+        {
+          "personId": 2,
+          "personName": "Dennis Cardenas",
+          "personEmail": "Dennis.Cardenas@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 5,
+          "personName": "Lisa Yruegas",
+          "personEmail": "Lisa.Yruegas@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 7,
+          "personName": "Dotty Deason",
+          "personEmail": "Dotty.Deason@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 9,
+          "personName": "Dennis Gist",
+          "personEmail": "Dennis.Gist@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 10,
+          "personName": ",Juanita Delabarre",
+          "personEmail": "Juanita.Delabarre@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 11,
+          "personName": "Nancy Villanueva",
+          "personEmail": "Nancy.Villanueva@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 12,
+          "personName": "Samuel Iaccarino",
+          "personEmail": "Samuel.Iaccarino@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 14,
+          "personName": "Bernice Schuck",
+          "personEmail": "Bernice.Schuck@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [19]
         }
       ],
       "gantt": {
@@ -1069,8 +1482,16 @@
       },
       "dependencies": [
         {
-          "projectId": 2,
-          "projectName": "C++ Numerical Algebra"
+          "dependenciesId": 1,
+          "dependenciesName": "Android" 
+        }, 
+        {
+          "dependenciesId": 2,
+          "dependenciesName": "IOS"
+        },
+        {
+          "dependenciesId": 7,
+          "dependenciesName": "Python"
         }
       ]
     },
@@ -1088,6 +1509,62 @@
           "personEmail": "Piper.Dingledine@fakegame.com",
           "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
           "reportsTo": [7]
+        },
+        {
+          "personId": 2,
+          "personName": "Dennis Cardenas",
+          "personEmail": "Dennis.Cardenas@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 3,
+          "personName": "William Mooney",
+          "personEmail": "William.Mooney@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1558507652-2d9626c4e67a?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 6,
+          "personName": "Ellen Smith",
+          "personEmail": "Ellen.Smith@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 7,
+          "personName": "Dotty Deason",
+          "personEmail": "Dotty.Deason@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 8,
+          "personName": "Nickolas McCarney",
+          "personEmail": "Nickolas.McCarney@fakegame.com",
+          "personAvatar": "https://unsplash.com/photos/_BkjDspEw_k",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 9,
+          "personName": "Dennis Gist",
+          "personEmail": "Dennis.Gist@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 10,
+          "personName": ",Juanita Delabarre",
+          "personEmail": "Juanita.Delabarre@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 11,
+          "personName": "Nancy Villanueva",
+          "personEmail": "Nancy.Villanueva@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "reportsTo": [15]
         }
       ],
       "gantt": {
@@ -1105,8 +1582,16 @@
       },
       "dependencies": [
         {
-          "projectId": 2,
-          "projectName": "C++ Numerical Algebra"
+          "dependenciesId": 6,
+          "dependenciesName": "Java" 
+        }, 
+        {
+          "dependenciesId": 5,
+          "dependenciesName": "Javascript"
+        },
+        {
+          "dependenciesId": 9,
+          "dependenciesName": "Julia"
         }
       ]
     },
@@ -1124,6 +1609,69 @@
           "personEmail": "Piper.Dingledine@fakegame.com",
           "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
           "reportsTo": [7]
+        },
+        {
+          "personId": 2,
+          "personName": "Dennis Cardenas",
+          "personEmail": "Dennis.Cardenas@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 3,
+          "personName": "William Mooney",
+          "personEmail": "William.Mooney@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1558507652-2d9626c4e67a?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 4,
+          "personName": "Ashley Rifkin",
+          "personEmail": "Ashley.Rifkin@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1521038199265-bc482db0f923?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 6,
+          "personName": "Ellen Smith",
+          "personEmail": "Ellen.Smith@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 7,
+          "personName": "Dotty Deason",
+          "personEmail": "Dotty.Deason@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 9,
+          "personName": "Dennis Gist",
+          "personEmail": "Dennis.Gist@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 11,
+          "personName": "Nancy Villanueva",
+          "personEmail": "Nancy.Villanueva@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 12,
+          "personName": "Samuel Iaccarino",
+          "personEmail": "Samuel.Iaccarino@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 14,
+          "personName": "Bernice Schuck",
+          "personEmail": "Bernice.Schuck@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [19]
         }
       ],
       "gantt": {
@@ -1141,8 +1689,16 @@
       },
       "dependencies": [
         {
-          "projectId": 2,
-          "projectName": "C++ Numerical Algebra"
+          "dependenciesId": 3,
+          "dependenciesName": "C++" 
+        }, 
+        {
+          "dependenciesId": 11,
+          "dependenciesName": "C#"
+        },
+        {
+          "dependenciesId": 12,
+          "dependenciesName": "Unity"
         }
       ]
     },
@@ -1160,6 +1716,69 @@
           "personEmail": "Piper.Dingledine@fakegame.com",
           "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
           "reportsTo": [7]
+        },
+        {
+          "personId": 9,
+          "personName": "Dennis Gist",
+          "personEmail": "Dennis.Gist@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 11,
+          "personName": "Nancy Villanueva",
+          "personEmail": "Nancy.Villanueva@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "reportsTo": [15]
+        },
+        {
+          "personId": 12,
+          "personName": "Samuel Iaccarino",
+          "personEmail": "Samuel.Iaccarino@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
+        },
+        {
+          "personId": 15,
+          "personName": "Tanner Harrington",
+          "personEmail": "Tanner.Harrington@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1579463148228-138296ac3b98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=654&q=80",
+          "reportsTo": [19]
+        },
+        {
+          "personId": 16,
+          "personName": "Norman Ruiz",
+          "personEmail": "Norman.Ruiz@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1533618561606-3b2a0766d159?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [19]
+        },
+        {
+          "personId": 17,
+          "personName": "Phyllis Harris",
+          "personEmail": "Phyllis.Harris@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1591727884968-cc11135a19b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=655&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 18,
+          "personName": "Kyle Nava",
+          "personEmail": "Kyle.Nava@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1519744434498-a0de604df9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 19,
+          "personName": "Jimmie Shah",
+          "personEmail": "Jimmie.Shah@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1509933551745-514268e48884?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [7]
+        },
+        {
+          "personId": 20,
+          "personName": "Jeffrey Gutierrez",
+          "personEmail": "Jeffrey.Gutierrez@fakegame.com",
+          "personAvatar": "https://images.unsplash.com/photo-1519266277740-7fdb3202f35d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "reportsTo": [14]
         }
       ],
       "gantt": {
@@ -1177,8 +1796,16 @@
       },
       "dependencies": [
         {
-          "projectId": 2,
-          "projectName": "C++ Numerical Algebra"
+          "dependenciesId": 1,
+          "dependenciesName": "Android" 
+        }, 
+        {
+          "dependenciesId": 10,
+          "dependenciesName": "git"
+        },
+        {
+          "dependenciesId": 4,
+          "dependenciesName": "DS"
         }
       ]
     }
@@ -1217,6 +1844,18 @@
     { "skillId": 19, "skillName": "Drinking", "skillIcon": "D" },
     { "skillId": 20, "skillName": "Linux", "skillIcon": "L" },
     { "skillId": 21, "skillName": "Events", "skillIcon": "E" },
-    { "skillId": 22, "skillName": "Office supplies", "skillIcon": "OS" }
+    { "skillId": 22, "skillName": "Office supplies", "skillIcon": "OS" },
+    { "skillId": 23, "skillName": "Android", "skillIcon": "A" },
+    { "skillId": 24, "skillName": "IOS", "skillIcon": "PS" },
+    { "skillId": 25, "skillName": "C++", "skillIcon": "A" },
+    { "skillId": 26, "skillName": "DS", "skillIcon": "DT" },
+    { "skillId": 27, "skillName": "Javascript", "skillIcon": "PM" },
+    { "skillId": 28, "skillName": "Java", "skillIcon": "B" },
+    { "skillId": 29, "skillName": "Python", "skillIcon": "H" },
+    { "skillId": 30, "skillName": "Docker", "skillIcon": "R" },
+    { "skillId": 31, "skillName": "Julia", "skillIcon": "C" },
+    { "skillId": 32, "skillName": "git", "skillIcon": "SP" },
+    { "skillId": 33, "skillName": "C#", "skillIcon": "D" },
+    { "skillId": 34, "skillName": "Unity", "skillIcon": "L" }
   ]
 }

@@ -35,7 +35,142 @@ const Persons = {
       };
     });
   },
+  getSimilarPersons: async (personId: number): Promise<any> => {
+    const person: any = await (
+      await persons.where("personId", "==", personId).get()
+    ).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+    const personSkills = person.personSkills;
+    let similarPersons: any = [];
+    for await (let skill of personSkills) {
+      const similarPersonsForSkill = await (
+        await persons.where("personSkills", "array-contains", skill).get()
+      ).docs.map((doc) => {
+        const data: any = doc.data();
+        return data;
+      }, {});
+      similarPersons = [...similarPersons, ...similarPersonsForSkill];
+    }
+
+    const filteredDuplicates = similarPersons.reduce(
+      (acc: any, similarPersons: any) => {
+        const x = acc.find(
+          (item: any) => item.personId === similarPersons.personId
+        );
+        if (!x) {
+          return acc.concat([similarPersons]);
+        } else {
+          return acc;
+        }
+      },
+      []
+    );
+
+    return filteredDuplicates.filter(
+      (person: any) => person.personId !== personId
+    );
+  },
+  //   const getOnePerson = stringId => {
+  //     return firestore().collection('persons').where('personId', '==', stringId).get()
+  // }
+  // const getProjectsFromId = stringId =>{
+  //   return firestore().collection('persons').where('PersonId', '==', stringId).get()
+  // }
+  getOne: async (personId: number): Promise<any> => {
+    return await (
+      await persons.where("personId", "==", personId).get()
+    ).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+  },
+
+  getProjectsFromId: async (personId: number): Promise<any> => {
+    const person: any = await (
+      await persons.where("personId", "==", personId).get()
+    ).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+    const personProjects = person.projects;
+    let personListProjects: any = [];
+    for await (let project of personProjects) {
+      const projectId = project.projectId;
+      const personFullProject = await (
+        await projects.where("projectId", "==", projectId).get()
+      ).docs.reduce((acc, doc) => {
+        const data: any = doc.data();
+        acc = data;
+        return acc;
+      }, {});
+      personListProjects = [...personListProjects, personFullProject];
+    }
+    return personListProjects;
+  },
+
+  getColleagues: async (personId: number): Promise<any> => {
+    const person: any = await (
+      await persons.where("personId", "==", personId).get()
+    ).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+    const personProjects = person.projects;
+    let personListColleagues: any = [];
+    for await (let project of personProjects) {
+      const projectId = project.projectId;
+      const personProjectColleagues = await (
+        await projects.where("projectId", "==", projectId).get()
+      ).docs.reduce((acc: any, doc) => {
+        const data: any = doc.data();
+        //acc = data.person;
+        acc = [...acc, ...data.person];
+      }, []);
+
+      personListColleagues = [
+        ...personListColleagues,
+        ...personProjectColleagues,
+      ];
+    }
+    // return personListColleagues;
+
+    const filteredDuplicatesPersons = personListColleagues.reduce(
+      (acc: any, similarColleagues: any) => {
+        const x = acc.find(
+          (item: any) => item.personId === personListColleagues.personId
+        );
+        if (!x) {
+          return acc.concat([similarColleagues]);
+        } else {
+          return acc;
+        }
+      },
+      []
+    );
+
+    return filteredDuplicatesPersons.filter(
+      (person: any) => person.personId !== personId
+    );
+  },
+
+  findBySearch: async(stringQuery: string):Promise<any> =>{
+    const projects: any = await (await projects.dependencies.where("dependenciesName", "==", stringQuery).get()).docs.reduce((acc, doc) => {
+      const data: any = doc.data();
+      acc = data;
+      return acc;
+    }, {});
+    const persons: any = await (await persons.skills("skill"))
+  }
 };
+
+
+
 
 const Projects = {
   create: async (project: any) => {
