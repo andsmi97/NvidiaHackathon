@@ -6,11 +6,20 @@ import Loader from "./components/Loader/Component";
 // import agent from './agent';
 import Snack, { VariantIcon } from "./components/Snack/Component";
 import { auth, createUserProfileDocument } from "./firebase/utils";
+<<<<<<< HEAD
+import { getSkills, getRoles } from "./utils";
+import emp from "./emp.json";
+import { Person } from "@material-ui/icons";
+import Query from "./firebase/firestoreQueries";
+import newdata from "./newdata.json";
+import { firestore } from "firebase";
+=======
 // import { getSkills, getRoles } from "./utils";
 // import emp from "./emp.json";
 // import { Person } from "@material-ui/icons";
 // import Query from "./firebase/firestoreQueries";
 // import newdata from "./newdata.json";
+>>>>>>> 0a6c050be5b0f6e218c762c4834a23f3305732fb
 interface AppProps {
   user: {};
   isLoading: boolean;
