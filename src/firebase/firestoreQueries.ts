@@ -159,14 +159,16 @@ const Persons = {
     );
   },
 
-  findBySearch: async(stringQuery: string):Promise<any> =>{
-    const projects: any = await (await projects.dependencies.where("dependenciesName", "==", stringQuery).get()).docs.reduce((acc, doc) => {
-      const data: any = doc.data();
-      acc = data;
-      return acc;
-    }, {});
-    const persons: any = await (await persons.skills("skill"))
-  }
+  // findBySearch: async(stringQuery: string):Promise<any> =>{
+  //   // const projectsSearch: any = await (await projects.dependencies.where("dependenciesName", "==", stringQuery).get()).docs.reduce((acc, doc) => {
+  //   const projectSearch: any = await(await projects)
+  //   const listOfDependenciesProjects = projects.dependencies
+  //     const data: any = doc.data();
+  //     acc = data;
+  //     return acc;
+  //   }, {});
+  //   // const persons: any = await (await persons.skills("skill"))
+  // }
 };
 
 
