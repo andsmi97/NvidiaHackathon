@@ -8,6 +8,7 @@ import Welcome from "./pages/Welcome/Container";
 // import SignIn from "./pages/SignIn/Container";
 import { currentUser } from "./firebase/firestoreQueries";
 import PersonPageContainer from "./pages/PersonPage/Container";
+import ProjectPageContainer from "./pages/ProjectPage/Container";
 const mapStateToProps = (state: AppStateType) => ({
   currentUser: state.common.currentUser,
 });
@@ -27,7 +28,7 @@ const Router = () => {
     <ConnectedRouter history={history}>
       <Switch>
         {/* <Route exact path="/" render={() => <SignIn />} /> */}
-        <Route exact path="/" render={() => <PersonPageContainer />} />
+        <Route exact path="/" render={() => <ProjectPageContainer />} />
         <Route component={NotFound} />
       </Switch>
     </ConnectedRouter>
