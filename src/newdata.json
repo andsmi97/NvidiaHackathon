@@ -1314,7 +1314,27 @@
           "personId": 1,
           "personName": "Piper Dingledine",
           "personEmail": "Piper.Dingledine@fakegame.com",
-          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1322,6 +1342,20 @@
           "personName": "Lisa Yruegas",
           "personEmail": "Lisa.Yruegas@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 3,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1329,6 +1363,26 @@
           "personName": "Ellen Smith",
           "personEmail": "Ellen.Smith@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1336,6 +1390,38 @@
           "personName": "Dennis Gist",
           "personEmail": "Dennis.Gist@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1343,6 +1429,26 @@
           "personName": ",Juanita Delabarre",
           "personEmail": "Juanita.Delabarre@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1350,6 +1456,14 @@
           "personName": "Julie Lams",
           "personEmail": "Julie.Lams@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         },
         {
@@ -1357,6 +1471,26 @@
           "personName": "Bernice Schuck",
           "personEmail": "Bernice.Schuck@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         },
         {
@@ -1364,6 +1498,20 @@
           "personName": "Tanner Harrington",
           "personEmail": "Tanner.Harrington@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1579463148228-138296ac3b98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=654&q=80",
+          "personRole": [
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         }
       ],
@@ -1407,7 +1555,27 @@
           "personId": 1,
           "personName": "Piper Dingledine",
           "personEmail": "Piper.Dingledine@fakegame.com",
-          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1415,6 +1583,26 @@
           "personName": "Dennis Cardenas",
           "personEmail": "Dennis.Cardenas@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1422,6 +1610,20 @@
           "personName": "Lisa Yruegas",
           "personEmail": "Lisa.Yruegas@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 3,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1429,6 +1631,26 @@
           "personName": "Dotty Deason",
           "personEmail": "Dotty.Deason@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1436,6 +1658,38 @@
           "personName": "Dennis Gist",
           "personEmail": "Dennis.Gist@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1443,6 +1697,26 @@
           "personName": ",Juanita Delabarre",
           "personEmail": "Juanita.Delabarre@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1450,6 +1724,32 @@
           "personName": "Nancy Villanueva",
           "personEmail": "Nancy.Villanueva@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "personRole": [
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1457,6 +1757,26 @@
           "personName": "Samuel Iaccarino",
           "personEmail": "Samuel.Iaccarino@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1464,6 +1784,26 @@
           "personName": "Bernice Schuck",
           "personEmail": "Bernice.Schuck@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         }
       ],
@@ -1507,7 +1847,27 @@
           "personId": 1,
           "personName": "Piper Dingledine",
           "personEmail": "Piper.Dingledine@fakegame.com",
-          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1515,6 +1875,26 @@
           "personName": "Dennis Cardenas",
           "personEmail": "Dennis.Cardenas@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1522,6 +1902,20 @@
           "personName": "William Mooney",
           "personEmail": "William.Mooney@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1558507652-2d9626c4e67a?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1529,6 +1923,26 @@
           "personName": "Ellen Smith",
           "personEmail": "Ellen.Smith@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1536,6 +1950,26 @@
           "personName": "Dotty Deason",
           "personEmail": "Dotty.Deason@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1543,6 +1977,14 @@
           "personName": "Nickolas McCarney",
           "personEmail": "Nickolas.McCarney@fakegame.com",
           "personAvatar": "https://unsplash.com/photos/_BkjDspEw_k",
+          "personRole": [
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1550,6 +1992,38 @@
           "personName": "Dennis Gist",
           "personEmail": "Dennis.Gist@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1557,6 +2031,26 @@
           "personName": ",Juanita Delabarre",
           "personEmail": "Juanita.Delabarre@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1564,6 +2058,32 @@
           "personName": "Nancy Villanueva",
           "personEmail": "Nancy.Villanueva@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "personRole": [
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         }
       ],
@@ -1607,7 +2127,27 @@
           "personId": 1,
           "personName": "Piper Dingledine",
           "personEmail": "Piper.Dingledine@fakegame.com",
-          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1615,6 +2155,26 @@
           "personName": "Dennis Cardenas",
           "personEmail": "Dennis.Cardenas@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1527082395-e939b847da0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1622,6 +2182,20 @@
           "personName": "William Mooney",
           "personEmail": "William.Mooney@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1558507652-2d9626c4e67a?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1629,6 +2203,14 @@
           "personName": "Ashley Rifkin",
           "personEmail": "Ashley.Rifkin@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1521038199265-bc482db0f923?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1636,6 +2218,26 @@
           "personName": "Ellen Smith",
           "personEmail": "Ellen.Smith@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1535579710123-3c0f261c474e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1643,6 +2245,26 @@
           "personName": "Dotty Deason",
           "personEmail": "Dotty.Deason@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=629&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1650,6 +2272,38 @@
           "personName": "Dennis Gist",
           "personEmail": "Dennis.Gist@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1657,6 +2311,32 @@
           "personName": "Nancy Villanueva",
           "personEmail": "Nancy.Villanueva@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "personRole": [
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1664,6 +2344,26 @@
           "personName": "Samuel Iaccarino",
           "personEmail": "Samuel.Iaccarino@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1671,6 +2371,26 @@
           "personName": "Bernice Schuck",
           "personEmail": "Bernice.Schuck@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533469513-03bfed91f496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         }
       ],
@@ -1714,7 +2434,27 @@
           "personId": 1,
           "personName": "Piper Dingledine",
           "personEmail": "Piper.Dingledine@fakegame.com",
-          "personAvatar": "https://sun1-23.userapi.com/c854120/v854120553/170767/TT4xpasHrwU.jpg",
+          "personAvatar": "https://images.unsplash.com/photo-1533075377664-f5c0cbc5a91c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=636&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1722,6 +2462,38 @@
           "personName": "Dennis Gist",
           "personEmail": "Dennis.Gist@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1553544923-37efbe6ff816?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 5,
+              "roleName": "Manager",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1729,6 +2501,32 @@
           "personName": "Nancy Villanueva",
           "personEmail": "Nancy.Villanueva@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1484517186945-df8151a1a871?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+          "personRole": [
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 1,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 3,
+              "projectName": "Karma mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 4,
+              "projectName": "New fps game"
+            },
+            {
+              "roleId": 6,
+              "roleName": "CTO",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [15]
         },
         {
@@ -1736,6 +2534,26 @@
           "personName": "Samuel Iaccarino",
           "personEmail": "Samuel.Iaccarino@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1552658165-7a51046b41f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 2,
+              "projectName": "Prototype mobile game"
+            },
+            {
+              "roleId": 7,
+              "roleName": "HR",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 4,
+              "projectName": "New fps game"
+            }
+          ],
           "reportsTo": [14]
         },
         {
@@ -1743,6 +2561,20 @@
           "personName": "Tanner Harrington",
           "personEmail": "Tanner.Harrington@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1579463148228-138296ac3b98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=654&q=80",
+          "personRole": [
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            },
+            {
+              "roleId": 8,
+              "roleName": "DevRel",
+              "projectId": 1,
+              "projectName": "Fake mobile game"
+            }
+          ],
           "reportsTo": [19]
         },
         {
@@ -1750,6 +2582,14 @@
           "personName": "Norman Ruiz",
           "personEmail": "Norman.Ruiz@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1533618561606-3b2a0766d159?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 9,
+              "roleName": "Office management",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [19]
         },
         {
@@ -1757,6 +2597,14 @@
           "personName": "Phyllis Harris",
           "personEmail": "Phyllis.Harris@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1591727884968-cc11135a19b3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=655&q=80",
+          "personRole": [
+            {
+              "roleId": 1,
+              "roleName": "Sales",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1764,6 +2612,14 @@
           "personName": "Kyle Nava",
           "personEmail": "Kyle.Nava@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1519744434498-a0de604df9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 2,
+              "roleName": "Director",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1771,6 +2627,14 @@
           "personName": "Jimmie Shah",
           "personEmail": "Jimmie.Shah@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1509933551745-514268e48884?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 3,
+              "roleName": "Programmer",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [7]
         },
         {
@@ -1778,6 +2642,14 @@
           "personName": "Jeffrey Gutierrez",
           "personEmail": "Jeffrey.Gutierrez@fakegame.com",
           "personAvatar": "https://images.unsplash.com/photo-1519266277740-7fdb3202f35d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+          "personRole": [
+            {
+              "roleId": 4,
+              "roleName": "IT",
+              "projectId": 5,
+              "projectName": "Mafia mobile game"
+            }
+          ],
           "reportsTo": [14]
         }
       ],

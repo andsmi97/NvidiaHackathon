@@ -5,7 +5,7 @@ import TopBar from '../../components/TopBar/Component'
 import PersonCard from "../../components/ProjectPageComponents/PersonCard/Component";
 import Grid from '@material-ui/core/Grid'
 import { Container } from "@material-ui/core";
-import ProjectCard from "../../components/ProjectPageComponents/ProjectCard/Component";
+// import ProjectCard from "../../components/SearchPageComponents/ProjectCard/Component";
 import Disqus from "../../components/Disqus/Component";
 import PieCard from "../../components/ProjectPageComponents/PieChartCard/Component";
 import GanttCard from "../../components/ProjectPageComponents/GanttChart/Component";
@@ -16,7 +16,7 @@ export interface IPersonPageProps {
 }
 
 
-const PersonPage: FC<IPersonPageProps> = () => {
+const SearchPage: FC<IPersonPageProps> = () => {
   const classes = useStyles();
 
   const person = {
@@ -351,21 +351,18 @@ const PersonPage: FC<IPersonPageProps> = () => {
     ]
   }
   const teamMates: any = project.persons.filter((item, index) => index < 4);
+
+  // const projects
   return (<>
     <TopBar pageName={"Project Page"} />
     <Container>
       <Grid container spacing={2}>
-
-        <Grid item spacing={2} sm={9} xs={12}>
-          <div className={classes.bottomSpacing}></div>
-          <ProjectCard project={project} />
-          <div className={classes.bottomSpacing}></div>
-        </Grid>
-
-        <Grid item spacing={2} sm={3}>
-          <div className={classes.bottomSpacing}></div>
-          <PieCard />
-        </Grid>
+        {teamMates.map((teamMate: any) => (
+          <Grid key={teamMate.personId} item spacing={2} sm={4} xs={12}>
+            <PersonCard {...teamMate} />
+            {/* <ProjectCard {...project} /> */}
+          </Grid>
+        ))}
       </Grid>
 
       <Grid container spacing={2} justify="center">
@@ -375,26 +372,9 @@ const PersonPage: FC<IPersonPageProps> = () => {
           </Grid>
         ))}
       </Grid>
-
-      <Grid container spacing={2}>
-        < Grid item spacing={2} sm={3} xs={12} >
-          <div className={classes.bottomSpacing}></div>
-          <ProjectDependenciesCard dependencies={project.dependencies} />
-        </Grid>
-
-        <Grid item spacing={2} sm={9} xs={12}>
-          <div className={classes.bottomSpacing}></div>
-          <GanttCard />
-        </Grid>
-
-        <Grid item spacing={2} sm={12} xs={12}>
-          <Disqus />
-        </Grid>
-
-      </Grid>
     </Container>
   </>
   );
 };
 
-export default PersonPage;
+export default SearchPage;

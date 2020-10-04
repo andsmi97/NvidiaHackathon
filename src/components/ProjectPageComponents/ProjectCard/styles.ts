@@ -16,7 +16,7 @@ export const useStyles = makeStyles((theme) => ({
     justifyContent: "space-between",
     cursor: "pointer",
   },
-  image: { width: "100px", height: "100px" },
+  image: { width: "100%", height: "200px", objectFit: "cover" },
   leftPadding: {
     marginLeft: theme.spacing(1),
   },

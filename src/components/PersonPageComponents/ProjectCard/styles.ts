@@ -15,6 +15,7 @@ export const useStyles = makeStyles((theme) => ({
     display: "flex",
     justifyContent: "space-between",
     cursor: "pointer",
+    textDecoration: "none",
   },
   image: { width: "100px", height: "100px" },
   leftPadding: {
